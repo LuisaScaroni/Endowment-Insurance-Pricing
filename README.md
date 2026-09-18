@@ -1,6 +1,6 @@
 # Hippocrates Insurance+: Endowment Policy Design & Actuarial Pricing
 The repository contains the product design of **Hippocrates Insurance+**, a hybrid endowment life insurance policy developed for "Life Insurance Mathematics" course.
-The project tries to combine rigorous actuarial pricing and customer-centric financial product design.
+The **collaborative group project** tries to combine rigorous actuarial pricing and customer-centric financial product design.
 
 ## Designing the Policy
 The policy was designed for clients seeking for security, market growth and lifestyle incentives.
